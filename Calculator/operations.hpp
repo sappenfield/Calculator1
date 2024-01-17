@@ -8,6 +8,24 @@
 #ifndef operations_hpp
 #define operations_hpp
 
-#include <stdio.h>
+
+
+class operations {
+    
+    
+    public:
+   
+
+    double Calculate (double x, char oper, double y);
+    
+    
+    
+};
+
+
+
+
+
+
 
 #endif /* operations_hpp */
